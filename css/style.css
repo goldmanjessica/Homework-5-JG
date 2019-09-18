@@ -1,0 +1,64 @@
+body {
+  font-family: sans-serif;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  padding: 50px;
+}
+
+#doSomething {
+  margin: 25px auto;
+  display: block;
+}
+
+#circle1 {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-radius: 50%;
+  margin: 25px auto;
+  transition: background 500ms;
+}
+
+#circle2 {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-radius: 50%;
+  margin: 25px auto;
+  transition: background 500ms;
+}
+
+.large{
+  width:250px;
+  height:250px;
+}
+
+#circle3 {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-radius: 50%;
+  margin: 25px auto;
+  transition: background 500ms;
+}
+
+#circle4 {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-radius: 50%;
+  margin: 25px auto;
+  transition: background 500ms;
+}
+
+#circle5 {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-radius: 50%;
+  margin: 25px auto;
+  transition: background 500ms;
+}
